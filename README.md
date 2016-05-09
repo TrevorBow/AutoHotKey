@@ -22,6 +22,8 @@ Select the server you want to join to highlight it red, Alt+Tab out of DayZ or S
 
 
 
-**Bonus Tip:**
+**Bonus Tips:**
 
 Adjust the value assigned to **offset** to change the mouse position if it doesn't move to the "OK" button properly.
+
+Remove the lines with **SoundBeep** to stop the beeping.
