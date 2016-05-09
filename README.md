@@ -1,5 +1,6 @@
 # AutoHotKey DayZ Server Spammer
 This AutoHotKey script will help spam your way into a DayZ server.
+
 It centers the mouse above the "OK" button and presses Enter every half a second.
 
 # Directions:
