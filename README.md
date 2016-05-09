@@ -6,8 +6,6 @@ Every half a second it will center the mouse above the "OK" button then press En
 When the "Joining Game" screen pops up and vanishes or the server screen appears to stop responding - you are probably joining the server. 
 
 # Directions:
-
-
 * Install [AutoHotKey](https://autohotkey.com/)
 
 * **Download Zip** then extract *DayZpammer.ahk*
@@ -28,6 +26,7 @@ DirectX does some strange things to capture input so the best way to always get 
 
 * Start spamming (Ctrl+1) then Tab back into DayZ.
 
+# Controls
 **Ctrl+1** - Start Spamming
 
 **Ctrl+2** - Stop Spamming (For when you think you're in!!!1!)
