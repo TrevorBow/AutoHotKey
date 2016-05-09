@@ -3,12 +3,12 @@ This AutoHotKey script will help spam your way into a DayZ server.
 
 Every half a second it will center the mouse above the "OK" button then press Enter.
 
+When the "Joining Game" screen pops up and vanishes or the server screen appears to stop responding - you are probably joining the server. 
+
 # Directions:
 
 
 * Install [AutoHotKey](https://autohotkey.com/)
-
-* Right Click the .ahk file
 
 * **Download Zip** and extract DayZpammer.ahk
 
@@ -30,7 +30,7 @@ DirectX does some strange things to capture input so the best way to always get 
 
 **Ctrl+1** - Start Spamming
 
-**Ctrl+2** - Stop Spamming
+**Ctrl+2** - Stop Spamming (For when you think you're in!!!1!)
 
 **Ctrl+3** - Terminate the script (For when you're done)
 
