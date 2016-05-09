@@ -14,7 +14,7 @@ When the "Joining Game" screen pops up and vanishes or the server screen appears
 
 * Or: **Copy+Paste** *DayZpammer.ahk* into your favourite text editor then save as *AnythingYouLike.ahk*
 
-* Right click DayZpammer.ahk 
+* Right click the .ahk file 
 
 * Click *Run Script*
 
