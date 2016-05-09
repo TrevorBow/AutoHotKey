@@ -10,15 +10,18 @@ Install AutoHotKey **>** Right Click the .ahk file **>** Click Run Script
 
 DirectX does some strange things to capture input so the best way to always get it working is:
 
-Select the server you want to join in your favourites tab to highlight it red (optionally: try to join first and wait for the "OK" dialogue), Alt+Tab out of DayZ or Shift+Tab into the Steam overlay, Tab back into DayZ once you start the spamming.
+* Select the server you want to join in your favourites tab to highlight it red 
+(optionally: try to join first and wait for the "OK" dialogue)
+* Alt+Tab out of DayZ or Shift+Tab into the Steam overlay
+* Start spamming (Ctrl+1) then Tab back into DayZ.
 
 **Ctrl+1** - Start Spamming
 
 **Ctrl+2** - Stop Spamming
 
-**Ctrl+3** - Terminate the script
+**Ctrl+3** - Terminate the script (For when you're done)
 
-**Ctrl+4** - Terminate DayZ.exe
+**Ctrl+4** - Terminate DayZ.exe (Useful if the game freezes)
 
 *Happy Server Spamming!*
 
