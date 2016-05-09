@@ -1,7 +1,5 @@
-﻿#Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input
 SetWorkingDir %A_ScriptDir% 
-;CoordMode Pixel 
 
 StartSpamming() ;Hit enter every n milliseconds
 {
@@ -11,7 +9,7 @@ StartSpamming() ;Hit enter every n milliseconds
 	
 	n = 500
 	screenWidth := A_ScreenWidth / 2
-	screenHeight := (A_ScreenHeight / 2) + 50
+	screenHeight := (A_ScreenHeight / 2) + 50 ; Adjust this last number if the mouse isn't over "OK"
 
 	while (spamming)
 	{
@@ -55,10 +53,6 @@ return
 
 	^2:: ; Ctrl+2 - Stop spamming
 		StopSpamming()
-	return
-	
-	^3::
-		SoundBeep, 300, 500
 	return
 
 	^4:: ; Ctrl+4 - kill DayZ process
