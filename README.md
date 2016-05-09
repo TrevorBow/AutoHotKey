@@ -4,7 +4,9 @@ This AutoHotKey script will help spam your way into a DayZ server.
 It centers the mouse above the "OK" button and presses Enter every half a second.
 
 # Directions:
-Install AutoHotKey **>** Save "DaySpam.ahk" as "WhatEverYouLike.ahk" **>** Right Click the .ahk file **>** Click Run Script
+Download Zip or copy/paste DayZpammer.ahk into WhatEverYouLike.ahk from your favourite text editor (e.g. Notepad or Notepad++)
+
+Install AutoHotKey **>** Right Click the .ahk file **>** Click Run Script
 
 DirectX does some strange things to capture input so the best way to always get it working is:
 
