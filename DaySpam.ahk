@@ -8,14 +8,13 @@ StartSpamming() ;Hit enter every n milliseconds
 	SoundBeep, 400, 500
 	
 	n = 500
-	screenWidth := A_ScreenWidth / 2
-	screenHeight := (A_ScreenHeight / 2) + 50 ; Adjust this last number if the mouse isn't over "OK"
+	halfWidth := A_ScreenWidth / 2
+	halfHeight := (A_ScreenHeight / 2) + 50 ; Adjust this last number if the mouse isn't over "OK"
 
 	while (spamming)
 	{
 		sleep, %n%
-		MouseMove, %screenWidth%, %screenHeight%
-		;DllCall("SetCursorPos", int, int(%screenWidth%), int, int(%screenHeight%))
+		MouseMove, %halfWidth%, %halfHeight%
 		Send, {Enter}
 	}
 }
