@@ -12,7 +12,7 @@ When the "Joining Game" screen pops up and vanishes or the server screen appears
 
 * **Download Zip** and extract DayZpammer.ahk
 
-* (Or: **Copy+Paste** *DayZpammer.ahk* into your favourite text editor then save as AnythingYouLike.ahk
+* Or: **Copy+Paste** *DayZpammer.ahk* into your favourite text editor then save as AnythingYouLike.ahk
 
 * Right click DayZpammer.ahk 
 
@@ -21,8 +21,8 @@ When the "Joining Game" screen pops up and vanishes or the server screen appears
 DirectX does some strange things to capture input so the best way to always get it working is:
 
 * Select the server you want to join in your favourites tab to highlight it red
-* 
-* (optionally: try to join first and wait for the "OK" dialogue)
+
+* Optionally: Try to join first and wait for the "OK" dialogue
 
 * Alt+Tab out of DayZ or Shift+Tab into the Steam overlay
 
