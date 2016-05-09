@@ -8,8 +8,9 @@ StartSpamming() ;Hit enter every n milliseconds
 	SoundBeep, 400, 500
 	
 	n = 500
+	offset = 50
 	halfWidth := A_ScreenWidth / 2
-	halfHeight := (A_ScreenHeight / 2) + 50 ; Adjust this last number if the mouse isn't over "OK"
+	halfHeight := (A_ScreenHeight / 2) + offset ; Adjust this last number if the mouse isn't over "OK"
 
 	while (spamming)
 	{
