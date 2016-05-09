@@ -12,7 +12,7 @@ Every half a second it will center the mouse above the "OK" button then press En
 
 * **Download Zip** and extract DayZpammer.ahk
 
-* (Alt: **Copy+Paste** *DayZpammer.ahk* into your favourite text editor then save as AnythingYouLike.ahk
+* (Or: **Copy+Paste** *DayZpammer.ahk* into your favourite text editor then save as AnythingYouLike.ahk
 
 * Right click DayZpammer.ahk 
 
