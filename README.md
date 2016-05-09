@@ -10,7 +10,7 @@ When the "Joining Game" screen pops up and vanishes or the server screen appears
 
 * Install [AutoHotKey](https://autohotkey.com/)
 
-* **Download Zip** then extract "DayZpammer.ahk"
+* **Download Zip** then extract *DayZpammer.ahk*
 
 * Or: **Copy+Paste** *DayZpammer.ahk* into your favourite text editor then save as *AnythingYouLike.ahk*
 
